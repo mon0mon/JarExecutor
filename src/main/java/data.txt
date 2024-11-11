@@ -1,0 +1,9 @@
+-- 1. 실행하려고 하는 jar 파일 경로
+..\..\build\libs\jarexecutor-1.0-SNAPSHOT.jar
+-- 2. 호출하고자 하는 Class 이름
+Sample
+-- 3. 호출하고자 하는 Method 이름
+str
+-- 4. 호출하고자 하는 Method의 파라미터 형식
+
+-- 5. 호출하고자 하는 Method의 파라미터 입력 값 (Optional)
